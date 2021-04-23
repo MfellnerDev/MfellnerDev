@@ -8,6 +8,4 @@ Twitter: SchmolloManu (only German lang.)
 Telegram: SchmolloManu (public)
 Telegram Private: (just send me an E-Mail and I'm gonna give it to you :3 )
 
-And yeah I'm a Veteran Weeb, but I don't think that's necessary to say ^^
-
 And I'm just a 16 y.o old coding beginner so please be patient, I'm trying my best. :-)
