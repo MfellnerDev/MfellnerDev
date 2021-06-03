@@ -7,6 +7,6 @@ E-Mail: contact@smanu.at
 Twitter: SchmolloManu (only German lang.)
 Telegram: SchmolloManu (public)
 Telegram Private: (just send me an E-Mail and I'm gonna give it to you :3 )
-Website: https://SManu.at/
+Website: https://SManu.at
 
 And I'm just a 16 y.o old coding beginner so please be patient, I'm trying my best. :-)
