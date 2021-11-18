@@ -1,9 +1,5 @@
 manu | terrible front end dev | wannabe Java / Python Dev
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProManu24)](https://github.com/ProManu24/github-readme-stats)
-
-
-
 E-Mail: contact@smanu.at
 
 
