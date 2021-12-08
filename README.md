@@ -12,3 +12,4 @@ Website: https://SManu.at
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MfellnerDev&layout=compact&theme=dark)](https://github.com/MfellnerDev/github-readme-stats)
