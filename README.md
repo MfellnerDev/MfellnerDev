@@ -1,4 +1,4 @@
-manu | terrible front end dev | wannabe Software Dev | I don't know what is going on here
+manu | terrible front end dev | wannabe Software Dev (Java, Python, C++) | I don't know what is going on here
 
 
 
