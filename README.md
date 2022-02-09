@@ -2,10 +2,10 @@ manu | terrible front end dev | wannabe Software Dev (Java, Python, C++) | I don
 
 
 
-E-Mail: contact@smanu.at
+E-Mail: contact@tatsuya.wtf
 
 
-Website: https://SManu.at
+Website: https://tatsuya.wtf
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MfellnerDev&show_icons=true&theme=dark)
 
