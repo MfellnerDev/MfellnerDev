@@ -1,20 +1,20 @@
 Hey! I'm **Manu** and I am a **Computer Science Student** & **Linux Lover** who is studying at the Federal Technical College "TGM" (IT-Department).
 
-I study the following things:
+# study the following things:
 
-**- Software-Development (Java, C++, Python) 
+- Software-Development (Java, C++, Python) 
 
-**- Web-Development (HTML, CSS, Js)
+- Web-Development (HTML, CSS, Js)
 
-**- Network technology
+- Network technology
 
-**- System technology
+- System technology
 
-**- IT-Security
+- IT-Security
 
 
 I also have an internship as an **AI-Developer**, really looking forward to it! :3
-
+# 
 If you want to contact me (for whatever reasons):
 
 
