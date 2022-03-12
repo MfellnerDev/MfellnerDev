@@ -1,6 +1,6 @@
-Hey! I'm **Manu** and I am currently a **Computer Science Student** at the Federal Technical College "TGM" (IT-Department).
+Hey! I'm **Manu** and I am a **Computer Science Student** & **Linux Lover** who is studying at the Federal Technical College "TGM" (IT-Department).
 
-In school, I study the following things:
+I study the following things:
 
 ** - Software-Development (Java, C++, Python) 
 
@@ -22,6 +22,8 @@ If you want to contact me (for whatever reasons):
 
 💚 **Matrix:** [coming soon]
 
+
+PS: I do not really have Social Media. It's just spyware with a few extra steps ;) 
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MfellnerDev&show_icons=true&theme=dark)
 
