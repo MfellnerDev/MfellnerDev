@@ -2,15 +2,15 @@ Hey! I'm **Manu** and I am a **Computer Science Student** & **Linux Lover** who 
 
 I study the following things:
 
-** - Software-Development (Java, C++, Python) 
+**- Software-Development (Java, C++, Python) 
 
-** - Web-Development (HTML, CSS, Js)
+**- Web-Development (HTML, CSS, Js)
 
-** - Network technology
+**- Network technology
 
-** - System technology
+**- System technology
 
-** - IT-Security
+**- IT-Security
 
 
 I also have an internship as an **AI-Developer**, really looking forward to it! :3
