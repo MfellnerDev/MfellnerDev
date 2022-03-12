@@ -1,6 +1,6 @@
 Hey! I'm **Manu** and I am a **Computer Science Student** & **Linux Lover** who is studying at the Federal Technical College "TGM" (IT-Department).
 
-# study the following things:
+# I study the following things:
 
 - Software-Development (Java, C++, Python) 
 
