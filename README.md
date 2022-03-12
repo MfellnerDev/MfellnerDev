@@ -18,7 +18,7 @@ I also have an internship as an **AI-Developer**, really looking forward to it! 
 If you want to contact me (for whatever reasons):
 
 
-**E-Mail:** contact@tatsuya.wtf
+**E-Mail:** contact@tatsuya.wtf | **PGP Public-key:** [coming soon]
 
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MfellnerDev&show_icons=true&theme=dark)
