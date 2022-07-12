@@ -1,4 +1,4 @@
-Hey! I'm **Manu** and I am a **Computer Science Student** & **Linux Lover** who is studying at the Federal Technical College "TGM" (IT-Department).
+Hey! I'm **Manu** and I am a **Computer Science Student**, **Linux Lover** and **Backend Developer intern** who is studying at the Federal Technical College "TGM" (IT-Department).
 
 # I study the following things:
 
