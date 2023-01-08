@@ -1,4 +1,4 @@
-Hey! I'm **Manu** and I am a **Computer Science Student**, **Linux Lover** and **Jr. Backend Developer** who is studying at the Federal Technical College "TGM" (IT-Department) and working at a wonderfull company :).
+Hey! I'm **Manu** and I am a **Computer Science/Engineering Student**, **Linux Lover** and **Jr. Software Developer** who is studying at the Federal Technical College "TGM" (IT-Department) and working at a wonderfull company :).
 
 I will also have an 2023 internship at the Austrian Federal Computing Centre in the Department of JAVA Development. Looking forward to it!
 
