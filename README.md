@@ -21,7 +21,7 @@ I will also have an 2023 internship at the Austrian Federal Computing Centre in 
 
 ✉️ **E-Mail:** mfellner@tutanota.com | 🔑 **PGP Public-key:** [coming soon]
 
-💚 **Selfhosted Matrix instance (registration is enabled):** [matrix.nhentai.ink](https://matrix.to/#/@manu9150:matrix.nhentai.ink)
+💚 **Selfhosted Matrix instance (registration is enabled):** [matrix.nhentai.ink](https://matrix.to/#/@manu9150:matrix.nhentai.ink) ; Supported clients: [Element](https://app.element.io)
 
 
 ![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MfellnerDev&show_icons=true&theme=dark)
