@@ -24,8 +24,8 @@ I will also have an 2023 internship at the Austrian Federal Computing Centre in 
 💚 **Selfhosted Matrix instance ():** [coming soon]
 
 
-![Manu's GitHub stats](https://github-readme-stats.vercel.app/api?username=MfellnerDev&show_icons=true&theme=dark)
+![Manu's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MfellnerDev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MfellnerDev&layout=compact&theme=dark)](https://github.com/MfellnerDev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MfellnerDev)
 
