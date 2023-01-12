@@ -26,5 +26,5 @@ I will also have an 2023 internship at the Austrian Federal Computing Centre in 
 
 [![Manu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MfellnerDev&count_private=true&show_icons=true&theme=radical)](https://github.com/MfellnerDev/github-readme-stats)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MfellnerDev)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MfellnerDev&show_icons=true&theme=radical)
 
