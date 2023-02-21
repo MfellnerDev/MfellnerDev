@@ -1,27 +1,15 @@
-Hey! I'm **Manu** and I am a **Computer Science/Engineering Student**, **Linux Lover** and **Jr. Software Developer** who is studying at the Federal Technical College "TGM" (IT-Department) and working at a wonderfull company :).
-
-I will also have an 2023 internship at the Austrian Federal Computing Centre in the Department of JAVA Development. Looking forward to it!
-
-# I study the following things:
-
-- Software-Development (Java, C++, Python) 
-
-- Web-Development (HTML, CSS, Js)
-
-- Network technology
-
-- System technology
-
-- IT-Security
+Hey! I'm **Manuel**, a Computer Science/Engineering student, Linux lover, and junior software developer who is studying at the Federal Technical College TGM (IT Department). :3
 
 
+I will also have an internship in 2023 at the Austrian Federal Computing Center in the Department of Java Development. looking forward to it!
+
+
+I'm interested in all kinds of technologies related to software development, IT security and Linux.
 
 # If you want to contact me (for whatever reasons):
 
 
-✉️ **E-Mail:** mfellner@tutanota.com | 🔑 **PGP Public-key:** [coming soon]
-
-💚 **Selfhosted Matrix instance ():** [coming soon]
+✉️ **E-Mail:** mfellner@tutanota.com
 
 
 [![Manu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MfellnerDev&count_private=true&show_icons=true&theme=radical)](https://github.com/MfellnerDev/github-readme-stats)
