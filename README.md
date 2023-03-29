@@ -9,7 +9,7 @@ I'm interested in all kinds of technologies related to software development, IT 
 # If you want to contact me (for whatever reasons):
 
 
-✉️ **E-Mail:** mfellner@tutanota.com
+✉️ **E-Mail:** manuel.fellner@tutanota.com
 
 
 [![Manu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MfellnerDev&count_private=true&show_icons=true&theme=radical)](https://github.com/MfellnerDev/github-readme-stats)
