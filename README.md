@@ -12,6 +12,36 @@ I'm interested in all kinds of technologies related to software development, IT 
 ✉️ **E-Mail:** manuel.fellner@tutanota.com
 
 
+## 💻 Languages I use
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="12.5%" align="center">
+        <strong>Java</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+       <td width="12.5%" align="center">
+        <strong>C++</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="12.5%" align="center">
+        <strong>JavaScript</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="12.5%" align="center">
+        <strong>Node.js</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td>
+      <td width="12.5%" align="center">
+        <strong>Python</strong><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 [![Manu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MfellnerDev&count_private=true&show_icons=true&theme=radical)](https://github.com/MfellnerDev/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MfellnerDev&show_icons=true&theme=radical)
