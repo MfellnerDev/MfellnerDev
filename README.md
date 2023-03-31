@@ -1,3 +1,5 @@
+## 👨‍🦱 About me
+
 Hey! I'm **Manuel**, a Computer Science/Engineering student, Linux lover, and junior software developer who is studying at the Federal Technical College TGM (IT Department). :3
 
 
@@ -5,8 +7,6 @@ I will also have an internship in 2023 at the Austrian Federal Computing Center 
 
 
 I'm interested in all kinds of technologies related to software development, IT security and Linux.
-
-# If you want to contact me (for whatever reasons):
 
 
 ✉️ **E-Mail:** manuel.fellner@tutanota.com
