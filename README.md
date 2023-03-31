@@ -41,8 +41,6 @@ I'm interested in all kinds of technologies related to software development, IT 
   </tbody>
 </table>
 
+## 📄 My profile stats
 
-[![Manu's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MfellnerDev&count_private=true&show_icons=true&theme=radical)](https://github.com/MfellnerDev/github-readme-stats)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MfellnerDev&show_icons=true&theme=radical)
-
+![page-click](https://github.com/MfellnerDev/MfellnerDev/blob/main/github-metrics.svg)
