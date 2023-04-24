@@ -23,7 +23,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 500
           plugin_habits_charts: yes
-          config_timezone: Europe/Vienna
+          config_timezone: UTC
           # Followup
           plugin_followup: yes
           # Topics
