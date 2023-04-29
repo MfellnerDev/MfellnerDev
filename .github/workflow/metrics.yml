@@ -39,5 +39,3 @@ jobs:
           plugin_languages_limit: 8
           # Iso Calendar
           plugin_isocalendar: yes
-          # Self skip
-          plugin_selfskip: yes
