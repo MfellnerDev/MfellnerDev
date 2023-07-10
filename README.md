@@ -2,14 +2,7 @@
 
 Hey! I'm **Manuel**, a Computer Science/Engineering student, Linux lover, and junior software developer who is studying at the Federal Technical College TGM. :3
 
-
-I will also have an internship in 2023 at the Austrian Federal Computing Center in the Department of Java Development. looking forward to it!
-
-
 I'm interested in all kinds of technologies related to software development, IT security and Linux.
-
-
-✉️ **E-Mail:** manuel.fellner@tutanota.com
 
 
 ## Languages/Technologies I use
