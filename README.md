@@ -1,6 +1,6 @@
 ## About me
 
-Hey! I'm **Manuel**, a Computer Science/Engineering student, Linux lover, and junior software developer who is studying at the Federal Technical College TGM. :3
+Hey! I'm **Manu**, a Computer Science & Engineering student, Linux lover, and junior software developer who is studying at the Federal Technical College named TGM. :3
 
 I'm interested in all kinds of technologies related to software development, IT security and Linux.
 
