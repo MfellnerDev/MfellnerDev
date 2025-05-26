@@ -1,9 +1,10 @@
 ## About me
 
-Hey! I'm **Manu**, a Computer Science & Engineering student, Linux lover, and junior software developer who is studying at the Federal Technical College named TGM. :3
+Hey! I'm Manu – a Linux enthusiast, aspiring software developer, and curious mind with a passion for all things tech. 🐧💻
 
-I'm interested in all kinds of technologies related to software development, IT security and Linux.
+My main interests revolve around software development, IT security, and the Linux ecosystem. Lately, however, I've shifted some focus towards emergency medical services (EMS), as I'm currently preparing for my final exams and exploring new challenges in the medical field.
 
+That means I might not be super active in the CS world at the moment – so don’t expect cutting-edge commits every week. 😄 But stick around – the code itch always comes back!
 
 ## Languages/Technologies I use
 
